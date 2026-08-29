@@ -1,0 +1,7 @@
+{
+  "name": "MyFin",
+  "description": "Aplicativo para controle financeiro pessoal com registro rápido de gastos, gráfico circular mensal, gestão de despesas recorrentes e detecção de valores em notificações.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyFin</string>
+    <string name="notification_listener_service_label">Monitor de Notificações de Gastos</string>
+</resources>
+
